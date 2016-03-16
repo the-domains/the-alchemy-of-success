@@ -1,0 +1,28 @@
+name: The Alchemy of Success
+favicon: null
+layout_spectrum: 0.4822797712404281
+typography_spectrum: 0.4244128700811416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2081908374093473
+  lightness: 0.5238952971994877
+  saturation: 0.8888823217712343
+  rhythmicContrast: 0.47454100637696683
+purpose: []
