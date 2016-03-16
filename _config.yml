@@ -1,7 +1,7 @@
-name: The Alchemy of Success
+name: The Meta Alchemy Association
 favicon: null
-layout_spectrum: 0.4822797712404281
-typography_spectrum: 0.4244128700811416
+layout_spectrum: 0.49115
+typography_spectrum: 1
 title: The Meta Alchemy Association
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.2081908374093473
-  lightness: 0.5238952971994877
+    - '#ffffff'
+    - '#000000'
+    - '#ffcb35'
+    - '#342f28'
+    - '#716d62'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.8888823217712343
-  rhythmicContrast: 0.47454100637696683
+  rhythmicContrast: 0.75
 purpose: []
