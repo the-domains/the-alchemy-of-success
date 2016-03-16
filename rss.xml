@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Alchemy of Success]]></title>
+        <description><![CDATA[The Alchemy of Success]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 10:59:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[To Be or Not To Be: A Prespective of Success Philosophy]]></title>
+            <description><![CDATA[<article><h1>To Be or Not To Be: A Prespective of Success Philosophy</h1><p>Life is full of wonders, and can never be fully comprehended as to what will happen next, but there are still some base lines that we can count on to show along our path through it. Most of us, if not all of us will have to make the inevtible choice of "To be or not to be", A mere play of words to the passerby, but a philosophical marvel to the real observer. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d19ca810fb04f35ebb353498668a34f65da1da2f.jpg"></article>]]></description>
+            <link>undefinedto-be-or-not-to-be-a-prespective-of-success-philosophy/index.html</link>
+            <guid isPermaLink="false">4c012a9f-0448-4436-8d46-093ee0ee7ed2</guid>
+            <pubDate>Wed, 16 Mar 2016 10:59:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
